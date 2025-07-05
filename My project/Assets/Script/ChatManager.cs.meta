@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 410fa3111ce3c47ddb5ca19579ea9ffb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Chat: {fileID: 2352989702138716451, guid: ad5806fe8dc7f4187a63ab8aa8ef3440, type: 3}
+  - NickName: {instanceID: 0}
+  - inputField: {instanceID: 0}
+  - Name: {instanceID: 0}
+  - LMessage: {instanceID: 0}
+  - MyLMessage: {instanceID: 0}
+  - MMessage: {instanceID: 0}
+  - MyMMessage: {instanceID: 0}
+  - BMessage: {instanceID: 0}
+  - MyBMessage: {instanceID: 0}
+  - Content: {fileID: 2352989702138716451, guid: ad5806fe8dc7f4187a63ab8aa8ef3440, type: 3}
+  - scrollRect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
